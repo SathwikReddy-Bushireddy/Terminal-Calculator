@@ -1,8 +1,3 @@
-<!-- PROJECT LOGO -->
-<p align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/128/external-calculator-math-flaticons-lineal-color-flat-icons.png" width="120" alt="Calculator Logo"/>
-</p>
-
 <h1 align="center">🧮 Terminal Calculator (Java Mini Project)</h1>
 
 <p align="center">
@@ -109,7 +104,7 @@ Click Run ▶️ to start the calculator.
 <img width="506" height="262" alt="image" src="https://github.com/user-attachments/assets/c441d3a5-e152-40a9-9e48-88cfaab895ee" />
 
 
-🌟 Future Enhancements
+## 🌟 Future Enhancements
 
 ➕ Add exponentiation and modulus operations
 
